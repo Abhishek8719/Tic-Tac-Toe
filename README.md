@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git initgit add .# Tic-Tac-Toe React App
 
 This is a simple Tic-Tac-Toe game built with React. Two players can take turns marking X and O on a 3x3 grid. The game automatically detects a winner and provides a button to reset and play again.
@@ -96,3 +97,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Tic-Tac-Toe
+This is a simple Tic-Tac-Toe game built with React. The game allows two players to take turns marking X and O on a 3x3 grid. The game automatically detects a winner or a draw, and provides a button to reset and play again. The code is organized with a main Board component and a Square component for each cell.  
+>>>>>>> 3b6305ec31b5f373b24369ad8916857ead87bd72
